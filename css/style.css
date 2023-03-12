@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+    font-family:'Oswald', sans-serif;
+}
+nav ul{
+    background-color: #4a4a4f;
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin: 2.5%;
+}
+nav a{
+    text-decoration: none;
+    color: azure;
+    display: block;
+}
+nav a:hover{
+    color: #4a4a4f;
+    background-color: azure;
+}
